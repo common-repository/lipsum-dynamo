@@ -1,0 +1,46 @@
+== Changelog ==
+
+= 3.1.0 =
+*Release Date - 15 July 2024*
+
+* New: Rename plugin to Dummie.
+* Fixed: Fix wrong default admin post author.
+* Changed: Tested up to 6.5.5.
+
+= 3.0 =
+*Release Date - 24 March 2022*
+
+* New: Move admin setting menu to Tools.
+* New: Upgrade setting UI to tabs.
+
+= 2.2 =
+*Release Date - 07 March 2022*
+
+* Changed: PHP code improvement.
+* Changed: WordPress 5.9.1 compatibility.
+
+= 2.1 =
+*Release Date - 10 February 2022*
+
+* Changed: Auto delete DB table after uninstallation.
+
+= 2.0 =
+*Release Date - 28 October 2021*
+
+* New: New menu for Lipsum Dynamo.
+* New: Cleanup tool to generate dummy items of specific post type.
+* New: Default post author set to configured Administration Email Address in Site Settings.
+* Changed: Exclude attachment post type in Lipsum Dynamo.
+* Fixed: Missing one item when generating dummy.
+
+= 1.1.0 =
+*Release Date - 22 Septempber 2021*
+
+* New: Add option to control length of dummy text for Title, Excerpt and Content.
+* Changed: Add option to prevent deleting generated items but still cleanup database.
+* Fixed: Check database table exists before creating the new one.
+
+= 1.0.0 =
+*Release Date - 07 Septempber 2021*
+
+* The very first version
